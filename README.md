@@ -4,11 +4,11 @@ This repo contains my work to Udacity nanodegree [AI for Trading](https://www.ud
 
 ## Table of Contents
 
-### 1. Trading with Momentum. [Project](1-Trading with momentum/project_1_starter.ipynb)
+### 1. Trading with Momentum. [Project](1-Trading-with-momentum/project_1_starter.ipynb)
 
 * Learn basics of [stock markets](Notes/1-Trading-with-momentum/stock-market-data.md). Learn how to calculate [stock returns and design momentum trading strategy](Notes/1-Trading-with-momentum/returns-momentum.md).
 
-### 2. Breakout Strategy. [Project](2-Breakout strategy/project_2_starter.ipynb)
+### 2. Breakout Strategy. [Project](2-Breakout-strategy/project_2_starter.ipynb)
 
 * Learn about the overall [quant workflow](Notes/2-Breakout-strategy/quant-workflow.md), including alpha signal generation, alpha combination, portfolio optimization, and trading.
 
@@ -20,29 +20,29 @@ This repo contains my work to Udacity nanodegree [AI for Trading](https://www.ud
 
 * Learn about [pair trading](Notes/2-Breakout-strategy/pair.md), and study the tools used in identifying stock pairs and making trading decision.
 
-### 3. Smart beta and portfolio optimization. [Project](3-Smart beta and portfolio optimization/project_3_starter.ipynb)
+### 3. Smart beta and portfolio optimization. [Project](3-Smart-beta-and-portfolio-optimization/project_3_starter.ipynb)
 
 * [Overview of stocks, indices, and funds](Notes/3-Porfolio-optimization/Fund.md). Learn about [ETFs](Notes/3-Porfolio-optimization/ETFs.md).
 * Learn fundamentals of [portfolio risk and return](Notes/3-Porfolio-optimization/Portfolio.md).
 * Learn how to [optimize portfolios](Notes/3-Porfolio-optimization/Optimization.md) to meet certain criteria and constraints. 
 
-### 4. Alpha Research and Factor Modeling. [Project](4-Alpha research and factor modeling/project_4_starter.ipynb)
+### 4. Alpha Research and Factor Modeling. [Project](4-Alpha-research-and-factor-modeling/project_4_starter.ipynb)
 
 * Learn [factors](Notes/4-Alpha-Research-and-Factor-Modeling/Factors.md) and how to convert factor values into portfolio weights in a dollar neutral portfolio with leverage ratio equals to 1 (i.e., standardize factor values).
 * Learn [fundamentals of factor models and type of factors](Notes/4-Alpha-Research-and-Factor-Modeling/Factor-Model.md). Learn how to compute [portfolio variance using risk factor models](Notes/4-Alpha-Research-and-Factor-Modeling/Risk-Factor-Model.md). Learn [time series and cross-sectional risk models](Notes/4-Alpha-Research-and-Factor-Modeling/Cross-Sectional.md).
 * Learn how to use [PCA](Notes/4-Alpha-Research-and-Factor-Modeling/PCA.md) to build risk factor models. 
 
-### 5. Intro to NLP. [Project](5-NLP on financial statement/project_5_starter.ipynb)
+### 5. Intro to NLP. [Project](5-NLP-on-financial-statement/project_5_starter.ipynb)
 NLP pipeline consists of text processing, feature extraction, and modeling.
 
 * Basic NLP Analysis: Learn quantitatively measure readability of documents using readability indices, how to convert document into vectors using bag of word and TF-IDF weighting, and metrics to compare similarities between documents.
 
-### 6. Sentiment Analysis with Neural Networks. [Project](6-Sentiment analysis with neural networks/project_6_starter.ipynb)
+### 6. Sentiment Analysis with Neural Networks. [Project](6-Sentiment-analysis-with-neural-networks/project_6_starter.ipynb)
 
 * [Neural Network Basics](Notes/6-Sentiment-analysis-with-neutral-networks/README.md): Learn maximum likelihood, cross entropy, logistic regression, gradient decent, regularization, and practical heuristics for training neural networks.
 
 
-### 7. Combining Signals for Enhanced Alpha. [Project](7-Combining signals for enhanced alpha/project_7_starter.ipynb)
+### 7. Combining Signals for Enhanced Alpha. [Project](7-Combining-signals-for-enhanced-alpha/project_7_starter.ipynb)
 
 * [Decision Tree](Notes/7-Combining-signals-for-enhanced-alpha/README.md): Learn how to branching decision tree using entropy and information gain.
 
