@@ -1,0 +1,2 @@
+
+![](Descriptive_statistics.png)

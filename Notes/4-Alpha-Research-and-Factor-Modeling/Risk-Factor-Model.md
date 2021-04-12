@@ -1,0 +1,1 @@
+![](Risk-Factor-Model.png)
